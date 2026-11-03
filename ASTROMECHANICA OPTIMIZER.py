@@ -14,8 +14,10 @@ def _():
 @app.cell
 def _(mo):
     mo.md("""
-    # ASTROMECHANICA ENGINE OPTIMIZER
-    An over eager (potential) intern's optimizer for your sick ass engine.
+    # Turboelectric Cycle Optimizer
+    A first-principles look at how a turboelectric engine like Astro Mechanica's
+    Duality should switch modes on the way from takeoff to Mach 3. Built by an
+    (over-eager) aspiring intern.
 
     Minimum-fuel cycle analysis of the Duality turboelectric engine. At each Mach
     number on the climb schedule, the optimizer picks the fan pressure ratio π_f,
