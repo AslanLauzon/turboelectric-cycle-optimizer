@@ -17,6 +17,8 @@ Turbine Propulsion*).
 **Question:** if you burn as little fuel as possible at every point of a
 Mach 0–3 climb, do you get the published operating schedule?
 
+**[Try the interactive demo →](https://huggingface.co/spaces/AslanL/turboelectric-cycle-optimizer)**
+
 ## How it works
 
 - A **turbogenerator** powers an **electric fan**. A **burner** behind the fan
