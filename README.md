@@ -1,13 +1,3 @@
----
-title: Duality Engine Optimizer
-emoji: ✈️
-colorFrom: blue
-colorTo: gray
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # Duality engine optimizer
 
 A cycle analysis of Astro Mechanica's **Duality** turboelectric engine, built
